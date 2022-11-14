@@ -16,3 +16,11 @@ def solution(s):
     s = int(s)
     
     return s
+
+
+# 해설강의
+arr = ['zero', 'one', 'two', 'three', 'four', 'five', 'six', 'seven', 'eight', 'nine']
+
+inarr = 'zero' in arr
+
+print(inarr)
