@@ -63,8 +63,8 @@
 - 8.같은숫자는싫어-스택/큐 : 성공
     - 해결방법 : stack 이라는 배열의 맨 끝과 지금 내가 append할 수가 같지 않으면 stack에 넣어줘, 근데 맨 처음 stack안 아무 원소도 없을땐 stack[-1]이 오류가 나서 stack에 들어갈 수 없는 10이라는 수를 임의로 넣어준 후 모든 연산이 끝난 후 빼줬다.
 
-- 9.실패율 - 2019 KAKAO BLIND RECRUITMENT : 실패
-    - 해결방법 : 
+- 9.실패율 - 2019 KAKAO BLIND RECRUITMENT : 성공
+    - 해결방법 : 딕셔너리를 활용해서 해결 자세한 풀이는 문제에!
 
-- 10.소수 만들기 - Summer/Winter Coding(~2018) : 실패
-    - 해결방법 : 
+- 10.소수 만들기 - Summer/Winter Coding(~2018) : 성공
+    - 해결방법 : 튜터님 Tip! 자세한 풀이는 문제에!
