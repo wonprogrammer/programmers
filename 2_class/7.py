@@ -10,3 +10,10 @@ def solution(array, commands) :
         answer.append(new_array[commands[i][2]-1])
 
     return answer
+
+
+'''
+array = [1, 5, 2, 6, 3, 7, 4]
+commands = [[2,5,3], [], []]
+   [5, ]
+'''
