@@ -3,6 +3,10 @@
 def solution(num):
     answer = 0
     count = 0
+    
+    if num == 1:
+        return 0
+
     while True:
         if num%2 == 0:
             num = num/2
@@ -15,10 +19,9 @@ def solution(num):
             if num == 1:
                 break
     
-    if count >= 500 or num != 1:
+    if count > 500:
         return -1
     else:
         return count
-
     
 # TC : 13번 에러
