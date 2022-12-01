@@ -4,12 +4,10 @@ def solution(s):
     answer = ''
     n = 0
     if len(s) % 2 == 0:
-        n = len(s)/2
+        n = len(s)//2
         answer = s[n-1]+s[n]
         return answer
     else :
         n = len(s)//2
         answer = s[n]
         return answer
-
-# 런타임 에러
