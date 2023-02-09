@@ -1,0 +1,1 @@
+# USA Computing Olympiad > 2004-2005 Season > USACO February 2005 Contest > Gold 3번
